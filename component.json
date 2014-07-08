@@ -1,7 +1,7 @@
 {
   "name": "littlebits-cloud-client-api-stream-base",
   "repository": "littlebitselectronics/cloud-client-api-stream-base",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": [
     "./index.js"
