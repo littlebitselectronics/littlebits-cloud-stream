@@ -2,6 +2,7 @@
   "name": "cloud-client-api-stream-base",
   "version": "0.0.2",
   "description": "cloud-client-api-stream-base",
+  "private": true,
   "main": "index.js",
   "scripts": {
   },
