@@ -1,19 +1,18 @@
 {
-  "name": "cloud-client-api-stream-base",
-  "version": "0.0.2",
-  "description": "cloud-client-api-stream-base",
+  "license": "MIT",
   "private": true,
-  "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/littlebitselectronics/cloud-client-api-stream-base.git"
   },
   "author": "Jason Kuhrt <jasonkuhrt@me.com> (http://jasonkuhrt.com/)",
-  "license": "MIT",
+  "name": "cloud-client-api-stream-base",
+  "homepage": "https://github.com/littlebitselectronics/cloud-client-api-stream-base",
+  "version": "0.0.3",
+  "main": "index.js",
+  "description": "cloud-client-api-stream-base",
   "bugs": {
     "url": "https://github.com/littlebitselectronics/cloud-client-api-stream-base/issues"
-  },
-  "homepage": "https://github.com/littlebitselectronics/cloud-client-api-stream-base"
+  }
 }
