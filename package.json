@@ -9,7 +9,7 @@
   "author": "Jason Kuhrt <jasonkuhrt@me.com> (http://jasonkuhrt.com/)",
   "name": "littlebits-cloud-stream",
   "homepage": "https://github.com/littlebitselectronics/cloud-client-api-stream-base",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "main": "index.js",
   "description": "cloud-client-api-stream-base",
   "bugs": {
